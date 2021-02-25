@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-25T03:33:13.543Z",
+    "end": "2021-02-25T03:33:13.766Z",
+    "duration": 223
+  },
+  "tests": [
+    {
+      "title": "must be 14.4",
+      "fullTitle": "node version must be 14.4",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be 2.14.15 or greater",
+      "fullTitle": "npm version must be 2.14.15 or greater",
+      "duration": 218,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "must be 14.4",
+      "fullTitle": "node version must be 14.4",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be 2.14.15 or greater",
+      "fullTitle": "npm version must be 2.14.15 or greater",
+      "duration": 218,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
